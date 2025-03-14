@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋 Welcome to My AI & System Design Journey
 
-I'm Fuyuan who founded WeeMed AI.
+Building AI-driven healthcare and education solutions | Founder @weemed.ai | Passionate about human-centered AI & system design.
 
 <!--
 **gloomcheng/gloomcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
