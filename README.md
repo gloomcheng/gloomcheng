@@ -1,50 +1,35 @@
-## Hi, I'm Fu-Yuan (gloomcheng) 👋
+### Fu-Yuan Cheng (鄭富源 / gloomcheng)
 
-**Founder of [RikaiDev](https://github.com/RikaiDev)** — AI-native open source tools built with Claude Code.
+Software architect, founder, and educator based in Taiwan. Currently a Ph.D. candidate at the Graduate School of Engineering Science & Technology, National Yunlin University of Science and Technology (NYUST).
 
-### Philosophy
-> 理解 (Rikai) = Understanding
-> The best tools come from deeply understanding problems, then solving them with appropriate technology.
+My work focuses on healthcare interoperability standards (**SMART on FHIR**), domain-specific clinical AI, interactive cultural/educational systems, and pragmatic open-source engineering.
 
-Human vision + AI execution = Real products.
+---
 
-### Current Projects
+### What I Work On
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Cortex](https://github.com/RikaiDev/cortex) | AI collaboration brain for coding assistants | TypeScript, MCP |
-| [Toki](https://github.com/RikaiDev/toki) | Privacy-first automatic time tracking | Rust |
-| [Kaido](https://github.com/RikaiDev/kaido) | AI Ops Coach for learning infrastructure | Rust, Ollama |
-| [AII](https://github.com/RikaiDev/AII) | Bidirectional human-AI interaction framework | Conceptual |
+- **[WeeMed AI](https://weemed.ai/)** — Founder & CEO. Healthcare-vertical systems (`Hi-Series`: Hi-Checkup, Hi-Care, Hi-Work, Hi-Hope, Hi-Mate) built on SMART on FHIR architecture and deployed across hospital systems and community clinics in Taiwan.
+- **[FANSEE](https://fansee.studio/)** — Founder & CEO (FANSEE Co., Ltd.). Interactive AR edtech and cultural storytelling platforms. Creator of the *Picture & Fairytale* AR theater box (recognized by Taiwan's Golden Tripod Awards).
+- **[ZhèLâng Co., Ltd.](https://github.com/zhelang)** — Founder & CTO. Digital production house focused on open-source systems, custom web architectures, and hospital workflow automation.
+- **Teaching & Research** — Adjunct Lecturer in Web Engineering and AI Applications at NYUST and Providence University. Ph.D. research in health informatics and applied engineering.
 
-### Background
+---
 
-- 15+ years full-stack (Python, TS, Rust, Go)
-- Built healthcare SaaS serving hospitals in Taiwan
-- Participated netiCRM — CiviCRM-as-SaaS for 300+ nonprofits
-- PhD candidate in Information Engineering
-- CompTIA Security+ certified
+### Open Source & Releases
 
-### Writing
+- **Models & Datasets** ([Hugging Face / weemed](https://huggingface.co/weemed))
+  - `IlhaEmbed`: Clinical semantic embedding model tailored for Taiwanese medical records and clinical terminology (WeeMed AI Research Output).
+  - `Breeze-ASR-26`: Conversational and medical speech recognition models optimized for CTranslate2, GGML, and ONNX runtimes.
+- **Open Source Contributions & Tooling**
+  - **[Drupal](https://www.drupal.org/u/gloomcheng)**: 16+ years contributing and maintaining open-source modules (*Address Field Taiwan*, *Every8d SMS*, *Editor.md*).
+  - **[RikaiDev](https://github.com/RikaiDev)**: Developer toolchain for focus and system reliability (`toki`, `kaido`, `mesen`, `cortex`).
+  - **[React Docs](https://github.com/gloomcheng/zh-hant.react.dev)**: Core contributor to the official Traditional Chinese localization of `react.dev`.
 
-I write about turning "vibe coding" into production-ready engineering:
-- AI guardrails that actually work
-- MCP integrations for developer tools
-- Privacy-first architecture patterns
+---
 
-📍 Taiwan | 💬 English / 正體中文
+### Links & Profiles
 
-<!--
-**gloomcheng/gloomcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Websites**: [weemed.ai](https://weemed.ai/) · [fansee.studio](https://fansee.studio/)
+- **Academic Citations**: [Google Scholar](https://scholar.google.com/citations?user=j3zLzo0AAAAJ)
+- **Interactive CV & Archive**: [Online Resume & References](https://gloomcheng.github.io/resume)
+- **LinkedIn**: [linkedin.com/in/gloomcheng](https://www.linkedin.com/in/gloomcheng/)
